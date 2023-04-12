@@ -4,7 +4,7 @@ LogAgent + SysAgent + LogTransfer
 
 LogAgent: 数据采集，发送到kafka
 
-技能点: goroutine、Context、kafka、ES
+技能点: goroutine、Channel、Context、kafka、ES
 
 LogTransfer: 消费kafka中的日志数据到ES
 
